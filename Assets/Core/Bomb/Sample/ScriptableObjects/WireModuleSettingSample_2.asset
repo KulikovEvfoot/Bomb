@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9adcbbdf10443aca0f187df5c03ae98, type: 3}
+  m_Name: WireModuleSettingSample_2
+  m_EditorClassIdentifier: 
+  View: {fileID: 4264211012238608701, guid: fe558d1e13f25794f902bc45015b884d, type: 3}
+  Wires:
+  - m_Color:
+      serializedVersion: 2
+      rgba: 4278190335
+    m_IsCorrect: 1
+  - m_Color:
+      serializedVersion: 2
+      rgba: 4289760135
+    m_IsCorrect: 0
+  - m_Color:
+      serializedVersion: 2
+      rgba: 4280904221
+    m_IsCorrect: 1
+  - m_Color:
+      serializedVersion: 2
+      rgba: 4293506048
+    m_IsCorrect: 0
+  - m_Color:
+      serializedVersion: 2
+      rgba: 4285144356
+    m_IsCorrect: 0
+  - m_Color:
+      serializedVersion: 2
+      rgba: 4280678650
+    m_IsCorrect: 0

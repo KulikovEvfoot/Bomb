@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e510fb8075ca47349955fee05b39db7b, type: 3}
+  m_Name: TimerModuleSettingSample
+  m_EditorClassIdentifier: 
+  TimeToDetonate: 60
+  DefaultStateSetting:
+    TimeToDetonate: 60
+    TimerTextColor:
+      serializedVersion: 2
+      rgba: 4294967295
+  WarningStateSetting:
+    TimeToDetonate: 30
+    TimerTextColor:
+      serializedVersion: 2
+      rgba: 4278190335
+  View: {fileID: 8870736313327418451, guid: bdcca64a5f019ba44aa9f6954fa33c16, type: 3}
